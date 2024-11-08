@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23302050127",
+    "project_id": "real-time-delivery-app",
+    "storage_bucket": "real-time-delivery-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23302050127:android:e986d7a24b77063e66b53a",
+        "android_client_info": {
+          "package_name": "com.mrpaul.groupeventcheckin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzyGJgEwka1Zhmd9Gz32Z0beRwZds72o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23302050127:android:b4c4a141cb6b0ab066b53a",
+        "android_client_info": {
+          "package_name": "com.mrpaul.realtimedeliverytrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzyGJgEwka1Zhmd9Gz32Z0beRwZds72o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
